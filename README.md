@@ -1,2 +1,1 @@
-# ailab
- 
+# AI_Lab.github.io
